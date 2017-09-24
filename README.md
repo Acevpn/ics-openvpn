@@ -2,6 +2,8 @@ OpenVPN for Android
 =============
 [![Build Status](https://travis-ci.org/schwabe/ics-openvpn.svg?branch=master)](https://travis-ci.org/schwabe/ics-openvpn)
 
+Buy VPN at https://www.acevpn.com/
+
 Description
 ------------
 With the new VPNService of Android API level 14+ (Ice Cream Sandwich) it is possible to create a VPN service that does not need root access. This project is a port of OpenVPN.
